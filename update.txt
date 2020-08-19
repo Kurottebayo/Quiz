@@ -1,2 +1,2 @@
 current version: Alfa-1.0
-download link: teste
+download link: https://github.com/Kurottebayo/Quiz/blob/master/downloadTest
