@@ -1,4 +1,2 @@
 current version: Alfa-1.2
-file name: Quiz-Alfa-1.2.txt
-size: 58
 download link: https://raw.githubusercontent.com/Kurottebayo/Quiz/master/downloads/firstFile.txt
