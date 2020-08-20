@@ -1,2 +1,2 @@
 current version: Alfa-1.2
-download link: https://raw.githubusercontent.com/Kurottebayo/Quiz/master/downloads/Quiz_Alfa-1.2.txt
+download link: https://github.com/Kurottebayo/Quiz/blob/master/downloads/Quiz-Alfa-1.2.jar?raw=true
