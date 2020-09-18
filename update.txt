@@ -1,2 +1,2 @@
 current version: Beta-3.3
-download link: https://github.com/Kurottebayo/Quiz/blob/master/download/Quiz-Beta_3.3.jar?raw=true
+download link: https://github.com/Kurottebayo/Quiz/blob/master/download/Quiz-Beta_3.3%20(beta-valid).jar?raw=true
